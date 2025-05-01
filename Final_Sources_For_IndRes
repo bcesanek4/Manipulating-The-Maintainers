@@ -1,0 +1,227 @@
+@INPROCEEDINGS{10179304,
+  author={Ladisa, Piergiorgio and Plate, Henrik and Martinez, Matias and Barais, Olivier},
+  booktitle={2023 IEEE Symposium on Security and Privacy (SP)}, 
+  title={SoK: Taxonomy of Attacks on Open-Source Software Supply Chains}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1509-1526},
+  keywords={Surveys;Visualization;Costs;Taxonomy;Supply chains;Malware;Security;Open Source;Security;Software Supply Chain;Malware;Attack},
+  doi={10.1109/SP46215.2023.10179304}}
+
+
+@article{dapshima2024evaluation,
+  title={Evaluation and Assessment of Software Security Risks and Vulnerabilities Within the Realm of Secure DevOps},
+  author={Dapshima, Babagana Ali and Ahmad, Samaila Kasimu},
+  journal={no. July},
+  year={2024}
+}
+
+@article{vu2024malware,
+  title={A Study of Malware Prevention in Linux Distributions},
+  author={Vu, Duy-Linh and Dunlap, Thomas and Obermeier-Velazquez, Kevin and Gibert, Pierre and Meyers, Joseph S and Torres-Arias, Santiago},
+  journal={arXiv preprint arXiv:2411.11017v2},
+  year={2024},
+  month={Nov},
+  url={https://arxiv.org/abs/2411.11017}
+}
+
+@article{lins2024critical,
+  title={On the Critical Path to Implant Backdoors and the Effectiveness of Potential Mitigation Techniques: Early Learnings from XZ},
+  author={Lins, Mario and Mayrhofer, René and Roland, Michael and Hofer, Daniel and Schwaighofer, Martin},
+  journal={arXiv preprint arXiv:2404.08987v1},
+  year={2024},
+  month={Apr},
+  url={https://arxiv.org/abs/2404.08987}
+}
+
+@article{hamer2025closing,
+  title={Closing the Chain: How to Reduce Your Risk of Being SolarWinds, Log4j, or XZ Utils},
+  author={Hamer, Sivana and Bowen, Jacob and Haque, Md Nazmul and Hines, Robert and Madden, Chris and Williams, Laurie},
+  journal={arXiv preprint arXiv:2503.12192v1},
+  year={2025},
+  month={Mar},
+  url={https://arxiv.org/abs/2503.12192}
+}
+
+@article{przymus2025wolves,
+  title={Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack},
+  author={Przymus, Piotr and Durieux, Thomas},
+  journal={arXiv preprint arXiv:2504.17473v1},
+  year={2025},
+  month={Apr},
+  url={https://arxiv.org/abs/2504.17473}
+}
+
+@misc{tukaani,
+  title={XZ-devel Mailing List Archive},
+  author={Tukaani.org Mailing List},
+  note={n.d.},
+  url={https://www.mail-archive.com/xz-devel@tukaani.org/maillist.html}
+}
+
+@misc{melaragno2024anatomy,
+  title={The Anatomy and Implications of a Software Supply Chain Attack \& Panel Discussions},
+  author={Melaragno, Anthony and Farid, Camille and Casey, William},
+  howpublished={United States Naval Academy},
+  year={2024},
+  note={Controlled Unclassified Information. No public link available}
+}
+
+@misc{riloff_sarcasm,
+  title={News Headlines Dataset for Sarcasm Detection v2},
+  author={Riloff, Ellen and Sultan, Maaz and Amir, Sil},
+  note={n.d.},
+  url={https://nlds.soe.ucsc.edu/sarcasm2}
+}
+
+@article{mouton2016social,
+  title={Social Engineering Attack Examples, Templates and Scenarios},
+  author={Mouton, Francois and Leenen, Louise and Venter, Hein S},
+  journal={Computers \& Security},
+  volume={59},
+  pages={186--209},
+  year={2016},
+  doi={10.1016/j.cose.2016.03.004},
+  url={https://doi.org/10.1016/j.cose.2016.03.004}
+}
+
+@misc{huntedlabs2024wild,
+  title={Where the Wild Things Are: A Complete Analysis of Jia Tan’s GitHub History and the XZ Utils Software Supply Chain Breach},
+  author={Hunted Labs Team},
+  year={2024},
+  month={Apr},
+  url={https://huntedlabs.com/where-the-wild-things-are-a-complete-analysis-of-jia-tans-github-history-and-the-xz-utils-software-supply-chain-breach}
+}
+
+@misc{linuxfoundation2022census,
+  title={A Summary of Census II: Open Source Software Application Libraries the World Depends On},
+  author={Linux Foundation (OpenSSF Census II Project)},
+  year={2022},
+  month={Mar},
+  url={https://www.linuxfoundation.org/blog/blog/a-summary-of-census-ii-open-source-software-application-libraries-the-world-depends-on}
+}
+
+@misc{eve2024xzbackdoor,
+  title={XZ Backdoor Times: Damned Times and Damned Lies},
+  author={Eve, Rhea K.},
+  year={2024},
+  month={Apr},
+  url={https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and}
+}
+
+@misc{ssh2024openssh,
+  title={A Recap of the OpenSSH and XZ liblzma Incident},
+  author={SSH Communications Security (SSH.com Team)},
+  year={2024},
+  month={Apr},
+  url={https://www.ssh.com/blog/a-recap-of-the-openssh-and-xz-liblzma-incident}
+}
+
+@misc{sciencedirect_confusion,
+  title={Confusion Matrix Overview},
+  author={ScienceDirect},
+  note={n.d.},
+  url={https://www.sciencedirect.com/topics/engineering/confusion-matrix}
+}
+
+@misc{soroka_lexicoder,
+  title={Lexicoder Sentiment Dictionary (LSD)},
+  author={Soroka, Stuart N.},
+  note={n.d.},
+  url={https://www.snsoroka.com/data-lexicoder/}
+}
+
+@misc{ryjones2024jiat75,
+  title={JiaT75 Logs Archive},
+  author={Jones, Ryan},
+  year={2024},
+  month={Apr},
+  howpublished={GitHub repository},
+  url={https://github.com/ryjones/jiat75-logs}
+}
+
+@misc{openssf2024alert,
+  title={OpenSSF and OpenJS Foundations Issue Alert for Social Engineering Takeovers of Open Source Projects},
+  author={Open Source Security Foundation (OpenSSF)},
+  year={2024},
+  month={Apr},
+  url={https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/}
+}
+
+@misc{james2024timeline,
+  title={Timeline and Notes on the XZ Backdoor},
+  author={James, Sam},
+  year={2024},
+  month={Apr},
+  howpublished={GitHub Gist},
+  url={https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27}
+}
+
+@misc{wiz2024cve,
+  title={CVE-2024-3094: Critical RCE Vulnerability Found in XZ Utils},
+  author={Wiz.io Team},
+  year={2024},
+  month={Mar},
+  url={https://www.wiz.io/blog/cve-2024-3094-critical-rce-vulnerability-found-in-xz-utils}
+}
+
+@inproceedings{ohm2020backstabber,
+  title={Backstabber’s knife collection: A review of open source software supply chain attacks},
+  author={Ohm, Marc and Plate, Henrik and Sykosch, Arnold and Meier, Michael},
+  booktitle={Detection of Intrusions and Malware, and Vulnerability Assessment: 17th International Conference, DIMVA 2020, Lisbon, Portugal, June 24--26, 2020, Proceedings 17},
+  pages={23--43},
+  year={2020},
+  organization={Springer}
+}
+
+@article{chess2007attacking,
+  title={Attacking the build through cross-build injection: how your build process can open the gates to a trojan horse},
+  author={Chess, Brian and Lee, Fredrick DeQuan and West, Jacob},
+  journal={Fortify Software},
+  pages={24--25},
+  year={2007}
+}
+
+@article{hoffmann2024value,
+  title={The value of open source software},
+  author={Hoffmann, Manuel and Nagle, Frank and Zhou, Yanuo},
+  journal={Harvard Business School Strategy Unit Working Paper},
+  number={24-038},
+  year={2024}
+}
+
+@article{hatfield2018social,
+  title={Social Engineering in Cybersecurity: The Evolution of a Concept},
+  author={Hatfield, Joseph M.},
+  journal={Computers \& Security},
+  volume={73},
+  pages={102--113},
+  year={2018},
+  doi={10.1016/j.cose.2017.10.008},
+  url={https://doi.org/10.1016/j.cose.2017.10.008}
+}
+
+@online{boehs2024xzbackdoor,
+  author    = {Elliot Boehs},
+  title     = {Everything I Know About the XZ Backdoor},
+  year      = {2024},
+  url       = {https://boehs.org/node/everything-i-know-about-the-xz-backdoor},
+  note      = {Accessed: 2025-04-30}
+}
+
+@online{ssh2024xzincident,
+  author    = {{SSH Communications Security}},
+  title     = {A Recap of the OpenSSH and XZ liblzma Incident},
+  year      = {2024},
+  url       = {https://www.ssh.com/blog/a-recap-of-the-openssh-and-xz-liblzma-incident},
+  note      = {Accessed: 2025-04-30}
+}
+
+@online{lawfare2024xzbackdoor,
+  author    = {Justin Sherman},
+  title     = {The Backdoor in XZ Utils That Almost Happened},
+  year      = {2024},
+  url       = {https://www.lawfaremedia.org/article/backdoor-in-xz-utils-that-almost-happened},
+  note      = {Accessed: 2025-04-30}
+}
